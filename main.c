@@ -3,8 +3,8 @@
 
 int main(int argc, char*argv[])
 {
-  printf("Hello Electronics!");
-  printf("hey there");
+  printf("Hello,");
+  printf(" what is your name");
   getchar();
   return 0;
 }
