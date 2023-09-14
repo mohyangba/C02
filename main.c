@@ -4,7 +4,7 @@
 int main(int argc, char*argv[])
 {
   printf("Hello,");
-  printf(" what is your name");
+  printf(" what is your name?");
   getchar();
   return 0;
 }
